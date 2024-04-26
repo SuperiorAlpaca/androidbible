@@ -1,4 +1,4 @@
-Bible for Android
+Bible App for Android
 =================
 
 **100% Free, Open-Source, Quick and Friendly Bible App.**
